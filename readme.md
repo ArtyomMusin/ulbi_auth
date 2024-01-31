@@ -1,4 +1,4 @@
-# Slider
+# Fullstack mini-app (server development practice)
 
 Type: personal practice\
 Stack: mern\
